@@ -54,7 +54,7 @@ Currently, I'm sharpening my coding skills to bring more interactivity into my c
 - **Others:** Figma, Canva, Blender (basic), Procreate (concept & storyboarding)
 
 ### 💻 Coding & Dev Tools
-- **Languages:** HTML, CSS, JavaScript, Python, Java  
+- **Languages:** HTML, CSS, JavaScript, Python, 
 - **Databases:** MySQL, Firebase  
 - **Version Control:** Git, GitHub  
 - **IDE & Workflow:** VS Code, Notion, Jira  
@@ -76,12 +76,32 @@ Currently, I'm sharpening my coding skills to bring more interactivity into my c
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=n23dcpt115-dotcom&show_icons=true&theme=tokyonight)
 
-### 📚 Top Languages
+### 📚 Top Languages, Apps
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=n23dcpt115-dotcom&layout=compact&theme=tokyonight)
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="50" style="margin: 10px;">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="50" style="margin: 10px;">
+  </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="50" style="margin: 10px;">
+  </a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="50" style="margin: 10px;">
+  </a>
+  <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Illustrator" width="50" style="margin: 10px;">
 
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="50" style="margin: 10px;">
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" style="margin: 10px;">
+  </a>
+</p>
 
----
 
 ## 📫 Contact Me
 
