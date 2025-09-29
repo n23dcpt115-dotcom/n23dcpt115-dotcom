@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/n23dcpt115-dotcom/n23dcpt115-dotcom/blob/main/me.jpg" width="200" style="border-radius: 50%">
+</p>
+
 <h1 align="center">👋 Hi there, I'm Vy!</h1>
 
 <p align="center">
