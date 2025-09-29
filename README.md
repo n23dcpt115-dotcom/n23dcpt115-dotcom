@@ -68,15 +68,15 @@ Currently, I'm sharpening my coding skills to bring more interactivity into my c
 
 > _Note: Code-based activity stats — Design projects may not show here but are equally valuable!_
 
-![Vy’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=vy123&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vy123&layout=compact&theme=radical)
+![Vy’s GitHub Stats]([https://github-readme-stats.vercel.app/api?n23dcpt115-dotcom&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=n23dcpt115-dotcom&show_icons=true&theme=tokyonight))
+![Top Languages]([https://github-readme-stats.vercel.app/api/top-langs/?n23dcpt115-dotcom&layout=compact&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=n23dcpt115-dotcom&layout=compact&theme=tokyonight))
 
 ---
 
 ## 📫 Contact Me
 
 - ✉️ Email: **vy@example.com**  
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
+- 💼 LinkedIn: [linkedin.com/in/n23dcpt115-dotcom](https://linkedin.com/in/n23dcpt115-dotcom)  
 - 🖼️ Portfolio: [your-portfolio.com](https://your-portfolio.com)
 
 ---
