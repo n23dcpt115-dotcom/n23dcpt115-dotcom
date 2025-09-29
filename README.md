@@ -68,8 +68,13 @@ Currently, I'm sharpening my coding skills to bring more interactivity into my c
 
 > _Note: Code-based activity stats — Design projects may not show here but are equally valuable!_
 
-![Vy’s GitHub Stats]([https://github-readme-stats.vercel.app/api?n23dcpt115-dotcom&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=n23dcpt115-dotcom&show_icons=true&theme=tokyonight))
-![Top Languages]([https://github-readme-stats.vercel.app/api/top-langs/?n23dcpt115-dotcom&layout=compact&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=n23dcpt115-dotcom&layout=compact&theme=tokyonight))
+### 📊 Vy’s GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=n23dcpt115-dotcom&show_icons=true&theme=tokyonight)
+
+### 📚 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=n23dcpt115-dotcom&layout=compact&theme=tokyonight)
 
 ---
 
