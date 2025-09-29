@@ -81,9 +81,10 @@ Currently, I'm sharpening my coding skills to bring more interactivity into my c
 
 ## 📫 Contact Me
 
-- ✉️ Email: **vy@example.com**  
+- ✉️ Email: **vyhuynh1765@gmail.com.com**  
 - 💼 LinkedIn: [Vy Huỳnh](https://www.linkedin.com/in/vy-hu%E1%BB%B3nh-308616387/?trk=opento_sprofile_topcard)  
-- 🖼️ Portfolio: [Vy Huỳnh-portfolio.com]((https://bettercv.com/resume/final-resume?id=00d024af-739b-4814-80c8-ad03141046a1))
+- 🖼️ CV: [View My Resume on BetterCV](https://bettercv.com/resume/final-resume?id=00d024af-739b-4814-80c8-ad03141046a1)
+
 
 ---
 
