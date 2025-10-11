@@ -1,9 +1,3 @@
-<!-- 🌸 Banner -->
-<p align="center">
-  <img src="https://github.com/n23dcpt115-dotcom/n23dcpt115-dotcom/blob/main/avt-banner.png" width="1000" alt="Vy Huynh Banner">
-</p>
-
-<!-- 💖 Title -->
 <h1 align="center" style="color:#ffb6c1;">🌸 Hi, I'm Vy 🌸</h1>
 <h3 align="center" style="color:#b19cd9;">Multimedia Design • Storytelling • Emotion in Motion</h3>
 
