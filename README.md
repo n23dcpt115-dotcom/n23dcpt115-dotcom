@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:vyhuynh1765@gmail.com"><img src="https://img.shields.io/badge/Email-vyhuynh1765%40gmail.com-ffb6c1?style=flat-square&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/vy-hu%E1%BB%B3nh-308616387/"><img src="https://img.shields.io/badge/LinkedIn-Vy%20Huynh-b19cd9?style=flat-square&logo=linkedin"></a>
+  <a href="www.linkedin.com/in/vy-huynh-308616387"><img src="https://img.shields.io/badge/LinkedIn-Vy%20Huynh-b19cd9?style=flat-square&logo=linkedin"></a>
   <a href="https://bettercv.com/resume/final-resume?id=00d024af-739b-4814-80c8-ad03141046a1"><img src="https://img.shields.io/badge/Resume-BetterCV-f2b5d4?style=flat-square&logo=adobeacrobatreader"></a>
 </p>
 
